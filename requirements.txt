@@ -3,3 +3,4 @@ pandas
 pyarrow
 runpod~=1.7.0
 pydantic-settings
+pydantic
